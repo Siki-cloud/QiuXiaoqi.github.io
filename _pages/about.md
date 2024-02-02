@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-xxx
 
 I'm a second year undergraduate student from Shenzhen University(https://szu.edu.cn/). My research interest includes machine learning, and computational photography.
 
