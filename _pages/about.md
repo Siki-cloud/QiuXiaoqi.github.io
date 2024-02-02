@@ -13,6 +13,6 @@ redirect_from:
 I'm a second year undergraduate student from Shenzhen University(https://szu.edu.cn/). My research interest includes machine learning, and computational photography.
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Qiuxiaoqi resume v2.pdf).
+You can find my CV here: [QiuXiaoqi's Curriculum Vitae](../assets/Qiuxiaoqi resume v2.pdf).
 
 [Email](qiuxiaoqi20223@email.szu.edu.cn) / [Github](https://github.com/Siki-cloud) 
